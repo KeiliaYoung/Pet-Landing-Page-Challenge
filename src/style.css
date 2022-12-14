@@ -14,6 +14,24 @@ header {
   padding: 0 45px;
 }
 
+.logo img {
+  width: 40px;
+}
+
+.logo a {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 25px;
+  font-family: "Tangerine", cursive;
+  font-weight: 400;
+  letter-spacing: 4px;
+}
+
+.logo a:hover {
+  text-decoration: overline;
+  color: #be3fbe;
+}
+
 header .menu ul {
   display: flex;
 }
